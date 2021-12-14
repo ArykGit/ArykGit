@@ -1,13 +1,13 @@
-<h1> About Me </h1>
+<h1><u>About Me</u></h1>
 
 - Hi, I’m @ArykGit
 - I’m interested in Programming and Software Development. I also create
   Electronic Music as a side hobby, you can check that out on my channel below.
 - I’m currently learning GCSE Level Computer Science, 
-  However I will be going on to an IT and Game Development Course in College Next Year.
+  However I will be going on to a T-Level Digital Design in College Next Year.
   I will usually learn some more advanced stuff in my own time as well.
 - Currently, I am not looking to collaborate on any projects.    
-- How to reach me: Email me at devquestions@aryk.tk
+- How to reach me: Email me at geordieboy829@gmail.com
 - Music Channel: https://youtube.com/c/arykmusic
 
 <h1> Current Projects </h1>
